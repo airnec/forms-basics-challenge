@@ -112,5 +112,14 @@ button {
     color: white;
   }
   
+@media (max-width: 48rem) {
+  form {
+    width: 60%;
+  }
+}
 
-
+@media (max-width: 30rem) {
+  body {
+    font-size: 12px;
+  }
+}
