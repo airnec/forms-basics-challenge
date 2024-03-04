@@ -122,4 +122,8 @@ button {
   body {
     font-size: 12px;
   }
+
+  form {
+    width: 80%;
+  }
 }
